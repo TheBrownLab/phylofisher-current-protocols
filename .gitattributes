@@ -12,3 +12,4 @@
 /addition2/small_database/orthomcl/gene_og filter=lfs diff=lfs merge=lfs -text
 /database/orthomcl/bacterial filter=lfs diff=lfs merge=lfs -text
 /database/orthomcl/gene_og filter=lfs diff=lfs merge=lfs -text
+*.ini filter=lfs diff=lfs merge=lfs -text
